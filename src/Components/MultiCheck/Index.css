@@ -1,0 +1,17 @@
+/* TODO */
+/* .MultiCheck {
+
+} */
+.status{
+    background-color: #cccccc;
+    margin-bottom: 10px;
+}
+.MultiCheck .content {
+    display: flex;
+    flex-wrap: wrap;
+    border:1px solid #ddd;
+    padding: 5px;
+}
+.MultiCheck .content .item{
+    width: 80px;
+}
